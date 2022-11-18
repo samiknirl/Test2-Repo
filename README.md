@@ -1,2 +1,1 @@
-# Test2-Repo
-Test2- change from lab server 
+Test2 - Added from github
